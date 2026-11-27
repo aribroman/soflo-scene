@@ -1,0 +1,79 @@
+name: Update Events & Deploy SoFlo Scene
+
+on:
+  schedule:
+    # 5:00 AM EST & 5:00 PM EST (10:00 UTC & 22:00 UTC)
+    - cron: '0 10,22 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'site/**'
+      - 'pipeline/**'
+      - 'build/**'
+      - '.github/workflows/update-and-deploy.yml'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: soflo-pages
+  cancel-in-progress: false
+
+jobs:
+  scrape-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Python dependencies
+        run: pip install --no-cache-dir -r requirements.txt
+
+      - name: Run event scraper (on schedule or manual dispatch)
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: python3 pipeline/run.py
+
+      - name: Commit updated event data
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data/events.js site/data/updated.json pipeline/out/seen.json pipeline/out/last_run.json pipeline/out/*.json build/library-snapshot.json || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh South Florida events ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          else
+            echo "No event data changes to commit."
+          fi
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'site'
+
+  deploy:
+    needs: scrape-and-build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
