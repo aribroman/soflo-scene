@@ -1,23 +1,24 @@
 {
- "started": "2026-11-27T05:54:06.545710-05:00",
+ "started": "2026-11-27T17:55:22.728125-05:00",
  "sources": {
   "eventbrite": {
-   "ok": false,
-   "error": "RuntimeError: eventbrite: every discovery page failed",
-   "used_last_good": 337
+   "ok": true,
+   "raw": 329,
+   "secs": 21.5,
+   "detail": null
   },
   "hardrock": {
    "ok": true,
    "raw": 27,
-   "secs": 6.5,
+   "secs": 4.9,
    "detail": null
   },
   "ical": {
    "ok": true,
-   "raw": 311,
-   "secs": 0.8,
+   "raw": 310,
+   "secs": 0.7,
    "detail": {
-    "www.hollywoodfl.org#27": 118,
+    "www.hollywoodfl.org#27": 117,
     "www.ppines.com#27": 4,
     "www.deerfield-beach.com#24": 9,
     "www.hallandalebeachfl.gov#41": 10,
@@ -36,19 +37,19 @@
   "kaseya": {
    "ok": true,
    "raw": 36,
-   "secs": 9.3,
+   "secs": 11.3,
    "detail": null
   },
   "kravis": {
    "ok": true,
    "raw": 99,
-   "secs": 10.8,
+   "secs": 19.9,
    "detail": null
   },
   "tribe": {
    "ok": true,
-   "raw": 452,
-   "secs": 51.1,
+   "raw": 451,
+   "secs": 47.4,
    "detail": {
     "miamibeachfl": [
      380,
@@ -71,8 +72,8 @@
      12
     ],
     "artsgarage": [
-     62,
-     60
+     61,
+     59
     ]
    }
   },
@@ -83,30 +84,28 @@
    "detail": null
   }
  },
- "errors": [
-  "eventbrite: RuntimeError: eventbrite: every discovery page failed"
- ],
+ "errors": [],
  "published": true,
- "new_today": 4,
+ "new_today": 37,
  "feed_after_dedupe": {
-  "tribe": 138,
+  "tribe": 137,
   "ical": 100,
   "venues": 41,
   "hardrock": 23,
-  "eventbrite": 315,
+  "eventbrite": 308,
   "kravis": 92,
   "kaseya": 34
  },
- "covered_by_picks": 47,
+ "covered_by_picks": 45,
  "library_non_events_dropped": 0,
  "library": 385,
  "curated": 91,
- "feed": 743,
- "total": 834,
- "free": 195,
- "paid": 517,
+ "feed": 735,
+ "total": 826,
+ "free": 190,
+ "paid": 514,
  "other": 122,
- "updated": "2026-11-27T10:55:02Z",
- "bytes": 859483,
- "finished": "2026-11-27T05:55:02.093435-05:00"
+ "updated": "2026-11-27T22:56:14Z",
+ "bytes": 853394,
+ "finished": "2026-11-27T17:56:14.363150-05:00"
 }
