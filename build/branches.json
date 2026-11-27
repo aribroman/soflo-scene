@@ -1,0 +1,716 @@
+{
+ "Broward|African American Research Library and Cultural Center": {
+  "lat": 26.12839,
+  "lng": -80.17757,
+  "city": "Fort Lauderdale",
+  "address": "2650 Northwest 6th Street, Fort Lauderdale, FL, 33311",
+  "q": "African American Research Library and Cultural Center library, Broward County, Florida",
+  "osm": "African-American Research Library and Cultural Center, 2650, Northwest 6th Street, Washington Park, Fort Lauderdale, Broward County, Florida, 33311, United States"
+ },
+ "Broward|Dania Beach Paul DeMaio Branch": {
+  "lat": 26.05196,
+  "lng": -80.14473,
+  "city": "Dania Beach",
+  "address": "1 Southwest 1st Avenue, Dania Beach, FL, 33004",
+  "q": "Dania Beach Paul DeMaio Branch library, Broward County, Florida",
+  "osm": "Dania Beach Paul DeMaio Branch Library, 1, Southwest 1st Avenue, Dania Beach, Broward County, Florida, 33004, United States"
+ },
+ "Broward|Davie/Cooper City Branch": {
+  "lat": 26.06411,
+  "lng": -80.25565,
+  "city": "Davie",
+  "address": "4600 Southwest 82nd Avenue, Davie, FL, 33328",
+  "q": "Davie/Cooper City Branch library, Broward County, Florida",
+  "osm": "Davie/Cooper City Branch, 4600, Southwest 82nd Avenue, Davie, Broward County, Florida, 33328, United States"
+ },
+ "Broward|Deerfield Beach Percy White Branch": {
+  "lat": 26.31874,
+  "lng": -80.09245,
+  "city": "Deerfield Beach",
+  "address": "837 East Hillsboro Boulevard, Deerfield Beach, FL, 33441",
+  "q": "Deerfield Beach Percy White Branch library, Broward County, Florida",
+  "osm": "Deerfield Beach Percy White Branch Library, 837, East Hillsboro Boulevard, Little Harbor on the Hillsboro, Deerfield Beach, Broward County, Florida, 33441, United States"
+ },
+ "Broward|Galt Ocean Mile Reading Center": {
+  "lat": 26.17023,
+  "lng": -80.09949,
+  "city": "Fort Lauderdale",
+  "address": "3403 Galt Ocean Drive, Fort Lauderdale, FL, 33308",
+  "q": "Galt Ocean Mile Reading Center library, Broward County, Florida",
+  "osm": "Galt Ocean Mile Reading Center, 3403, Galt Ocean Drive, Fort Lauderdale, Broward County, Florida, 33308, United States"
+ },
+ "Broward|Hallandale Beach Branch": {
+  "lat": 25.98122,
+  "lng": -80.14285,
+  "city": "Hallandale Beach",
+  "address": "300 Federal Highway, Hallandale Beach, FL, 33009",
+  "q": "Hallandale Beach Branch library, Broward County, Florida",
+  "osm": "Hallandale Beach Branch Library, 300, Federal Highway, Hallandale Beach, Broward County, Florida, 33009, United States"
+ },
+ "Broward|Hollywood Branch": {
+  "lat": 26.01159,
+  "lng": -80.15885,
+  "city": "Hollywood",
+  "address": "2600 Hollywood Boulevard, Hollywood, FL, 33020",
+  "q": "Hollywood Branch library, Broward County, Florida",
+  "osm": "Hollywood Branch Library, 2600, Hollywood Boulevard, Hollywood, Broward County, Florida, 33020, United States"
+ },
+ "Broward|Imperial Point Branch": {
+  "lat": 26.20208,
+  "lng": -80.11003,
+  "city": "Fort Lauderdale",
+  "address": "Imperial Point Drive, Fort Lauderdale, FL, 33308",
+  "q": "Imperial Point Branch library, Broward County, Florida",
+  "osm": "Imperial Point Branch Library, Imperial Point Drive, Imperial Point, Fort Lauderdale, Broward County, Florida, 33308, United States"
+ },
+ "Broward|Lauderhill Central Park Library": {
+  "lat": 26.13902,
+  "lng": -80.2004,
+  "city": "Lauderhill",
+  "address": "3810 Northwest 11th Place, Lauderhill, FL, 33311",
+  "q": "Lauderhill Central Park Library, Broward County, Florida",
+  "osm": "Lauderhill Central Park, 3810, Northwest 11th Place, Lauderhill, Broward County, Florida, 33311, United States"
+ },
+ "Broward|Lauderhill Towne Centre Library": {
+  "lat": 26.16524,
+  "lng": -80.235,
+  "city": "Lauderhill",
+  "address": "6399 West Oakland Park Boulevard, Lauderhill, FL, 33313",
+  "q": "Lauderhill Towne Centre Library library, Broward County, Florida",
+  "osm": "Lauderhill Towne Centre Library, 6399, West Oakland Park Boulevard, Lauderhill, Broward County, Florida, 33313, United States"
+ },
+ "Broward|Main Library": {
+  "lat": 26.12091,
+  "lng": -80.14299,
+  "city": "Fort Lauderdale",
+  "address": "100 South Andrews Avenue, Fort Lauderdale, FL, 33301",
+  "q": "Main Library library, Broward County, Florida",
+  "osm": "Fort Lauderdale Library Main Branch, 100, South Andrews Avenue, Fort Lauderdale, Broward County, Florida, 33301, United States"
+ },
+ "Broward|Margate Catharine Young Branch": {
+  "lat": 26.24148,
+  "lng": -80.20713,
+  "city": "Margate",
+  "address": "5810 Park Drive, Margate, FL, 33063",
+  "q": "Margate Catharine Young Branch library, Broward County, Florida",
+  "osm": "Margate Catharine Young Branch Library, 5810, Park Drive, Hammondville, Margate, Broward County, Florida, 33063, United States"
+ },
+ "Broward|North Regional/Broward College Library": {
+  "lat": 26.24194,
+  "lng": -80.17184,
+  "city": "Coconut Creek",
+  "address": "Coconut Creek Boulevard, Coconut Creek, FL, 33066",
+  "q": "North Regional/Broward College Library library, Broward County, Florida",
+  "osm": "North Regional/Broward College Library, Coconut Creek Boulevard, Coconut Creek Park, Coconut Creek, Broward County, Florida, 33066, United States"
+ },
+ "Broward|Northwest Regional Library": {
+  "lat": 26.27017,
+  "lng": -80.24857,
+  "city": "Coral Springs",
+  "address": "3151 North University Drive, Coral Springs, FL, 33065",
+  "q": "Northwest Regional Library library, Broward County, Florida",
+  "osm": "Northwest Regional Library, 3151, North University Drive, Coral Springs, Broward County, Florida, 33065, United States"
+ },
+ "Broward|Riverland Branch": {
+  "lat": 26.10511,
+  "lng": -80.17807,
+  "city": "Fort Lauderdale",
+  "address": "2710 Davie Boulevard, Fort Lauderdale, FL, 33312",
+  "q": "Riverland Branch library, Broward County, Florida",
+  "osm": "Riverland Branch Library, 2710, Davie Boulevard, Fort Lauderdale, Broward County, Florida, 33312, United States"
+ },
+ "Broward|Southwest Regional Library": {
+  "lat": 26.031,
+  "lng": -80.37314,
+  "city": "Pembroke Pines",
+  "address": "Sheridan Street, Pembroke Pines, FL, 33082",
+  "q": "Southwest Regional Library library, Broward County, Florida",
+  "osm": "Southwest Regional Library, Sheridan Street, Pembroke Pines, Broward County, Florida, 33082, United States"
+ },
+ "Broward|Tamarac Branch": {
+  "lat": 26.19438,
+  "lng": -80.26666,
+  "city": "Tamarac",
+  "address": "Northwest 57th Street, Tamarac, FL, 33351",
+  "q": "Tamarac Branch library, Broward County, Florida",
+  "osm": "Tamarac Branch Library, Northwest 57th Street, Tamarac, Broward County, Florida, 33351, United States"
+ },
+ "Broward|Tyrone Bryant Branch": {
+  "lat": 26.15547,
+  "lng": -80.17008,
+  "city": "Fort Lauderdale",
+  "address": "Northwest 21st Avenue, Fort Lauderdale, FL, 33311",
+  "q": "Tyrone Bryant Branch library, Broward County, Florida",
+  "osm": "Tyrone Bryant Branch Library, Northwest 21st Avenue, Rock Island, Fort Lauderdale, Broward County, Florida, 33311, United States"
+ },
+ "Broward|West Regional Library": {
+  "lat": 26.12159,
+  "lng": -80.26172,
+  "city": "Plantation",
+  "address": "8601 West Broward Boulevard, Plantation, FL, 33324",
+  "q": "West Regional Library library, Broward County, Florida",
+  "osm": "West Regional Library, 8601, West Broward Boulevard, Plantation, Broward County, Florida, 33324, United States"
+ },
+ "Broward|Weston Branch": {
+  "lat": 26.06794,
+  "lng": -80.39438,
+  "city": "Weston",
+  "address": "4205 Bonaventure Boulevard, Weston, FL, 33332",
+  "q": "Weston Branch library, Broward County, Florida",
+  "osm": "Weston Branch Library, 4205, Bonaventure Boulevard, Weston, Broward County, Florida, 33332, United States"
+ },
+ "Broward|Young At Art (now Broward County Library Branch)": {
+  "lat": 26.11243,
+  "lng": -80.31106,
+  "city": "Davie",
+  "address": "751 Southwest 121st Avenue, Davie, FL, 33325",
+  "q": "Young At Art library, Broward County, Florida",
+  "osm": "Young At Art Museum/Broward County Library, 751, Southwest 121st Avenue, Davie, Broward County, Florida, 33325, United States"
+ },
+ "Miami-Dade|Allapattah Branch (Temporary Location)": {
+  "lat": 25.80875,
+  "lng": -80.22564,
+  "city": "Miami",
+  "address": "1799 Northwest 35th Street, Miami, FL, 33142",
+  "q": "Allapattah Branch library, Miami-Dade County, Florida",
+  "osm": "Allapattah Branch Library, 1799, Northwest 35th Street, Allapattah, Miami, Miami-Dade County, Florida, 33142, United States"
+ },
+ "Miami-Dade|Arcola Lakes Branch": {
+  "lat": 25.85026,
+  "lng": -80.20979,
+  "city": "Miami",
+  "address": "8240 Northwest 7th Avenue, Miami, FL, 33150",
+  "q": "Arcola Lakes Branch library, Miami-Dade County, Florida",
+  "osm": "Arcola Lakes Branch Library, 8240, Northwest 7th Avenue, Rovell Mobile Home Park, Miami, Miami-Dade County, Florida, 33150, United States"
+ },
+ "Miami-Dade|Bay Harbor Islands Branch": {
+  "lat": 25.88581,
+  "lng": -80.13253,
+  "city": "Bay Harbor Islands",
+  "address": "1175 95th Street, Bay Harbor Islands, FL, 33154",
+  "q": "Bay Harbor Islands Branch library, Miami-Dade County, Florida",
+  "osm": "Bay Harbor Islands Branch Library, 1175, 95th Street, Bay Harbor Islands, Miami-Dade County, Florida, 33154, United States"
+ },
+ "Miami-Dade|California Club Branch": {
+  "lat": 25.96022,
+  "lng": -80.18835,
+  "city": "Miami",
+  "address": "700 Ives Dairy Road, Miami, FL, 33179",
+  "q": "California Club Branch library, Miami-Dade County, Florida",
+  "osm": "California Club Branch Library, 700, Ives Dairy Road, Ives Estates, Miami, Miami-Dade County, Florida, 33179, United States"
+ },
+ "Miami-Dade|Coconut Grove Branch": {
+  "lat": 25.72678,
+  "lng": -80.24034,
+  "city": "Miami",
+  "address": "2875 McFarlane Road, Miami, FL, 33133",
+  "q": "Coconut Grove Branch library, Miami-Dade County, Florida",
+  "osm": "Coconut Grove Branch Library, 2875, McFarlane Road, Miami, Miami-Dade County, Florida, 33133, United States"
+ },
+ "Miami-Dade|Coral Gables Branch": {
+  "lat": 25.73957,
+  "lng": -80.26587,
+  "city": "Coral Gables",
+  "address": "3443 Segovia Street, Coral Gables, FL, 33134",
+  "q": "Coral Gables Branch library, Miami-Dade County, Florida",
+  "osm": "Coral Gables Public Library, 3443, Segovia Street, Coral Gables, Miami-Dade County, Florida, 33134, United States"
+ },
+ "Miami-Dade|Country Walk Branch": {
+  "lat": 25.62394,
+  "lng": -80.4131,
+  "city": "Miami",
+  "address": "15433 Southwest 137th Avenue, Miami, FL, 33177",
+  "q": "Country Walk Branch library, Miami-Dade County, Florida",
+  "osm": "Country Walk Branch Library, 15433, Southwest 137th Avenue, Miami, Miami-Dade County, Florida, 33177, United States"
+ },
+ "Miami-Dade|Doral Branch": {
+  "lat": 25.81997,
+  "lng": -80.3368,
+  "city": "Doral",
+  "address": "8551 Northwest 53rd Street, Doral, FL, 33166",
+  "q": "Doral Branch library, Miami-Dade County, Florida",
+  "osm": "Doral Branch Library, 8551, Northwest 53rd Street, Downtown Doral, Doral, Miami-Dade County, Florida, 33166, United States"
+ },
+ "Miami-Dade|Edison Center Branch": {
+  "lat": 25.83259,
+  "lng": -80.2052,
+  "city": "Miami",
+  "address": "531 Northwest 62nd Street, Miami, FL, 33150",
+  "q": "Edison Center Branch library, Miami-Dade County, Florida",
+  "osm": "Edison Center Branch Library, 531, Northwest 62nd Street, Edison Center, Miami, Miami-Dade County, Florida, 33150, United States"
+ },
+ "Miami-Dade|Fairlawn Branch": {
+  "lat": 25.76292,
+  "lng": -80.29932,
+  "city": "West Miami",
+  "address": "6376 Southwest 8th Street, West Miami, FL, 33144",
+  "q": "Fairlawn Branch library, Miami-Dade County, Florida",
+  "osm": "Fairlawn Branch Library, 6376, Southwest 8th Street, Alameda, West Miami, Miami-Dade County, Florida, 33144, United States"
+ },
+ "Miami-Dade|Hialeah Gardens Branch": {
+  "lat": 25.896,
+  "lng": -80.37193,
+  "city": "Hialeah Gardens",
+  "address": "13451 Northwest 107th Avenue, Hialeah Gardens, FL, 33018",
+  "q": "Hialeah Gardens Branch library, Miami-Dade County, Florida",
+  "osm": "Hialeah Gardens Branch Library, 13451, Northwest 107th Avenue, Pennsuco, Hialeah Gardens, Miami-Dade County, Florida, 33018, United States"
+ },
+ "Miami-Dade|Hispanic Branch": {
+  "lat": 25.77215,
+  "lng": -80.21759,
+  "city": "Miami",
+  "address": "1398 Southwest 1st Street, Miami, FL, 33135",
+  "q": "Hispanic Branch library, Miami-Dade County, Florida",
+  "osm": "Hispanic Branch Library, 1398, Southwest 1st Street, Latin Quarter, Miami, Miami-Dade County, Florida, 33135, United States"
+ },
+ "Miami-Dade|Lakes of the Meadow Branch": {
+  "lat": 25.72659,
+  "lng": -80.4404,
+  "city": "Miami",
+  "address": "4284 Southwest 152nd Avenue, Miami, FL, 33185",
+  "q": "Lakes of the Meadow Branch library, Miami-Dade County, Florida",
+  "osm": "Lakes of the Meadow Branch Library, 4284, Southwest 152nd Avenue, Lakes of the Meadow, Miami, Miami-Dade County, Florida, 33185, United States"
+ },
+ "Miami-Dade|Lemon City Branch": {
+  "lat": 25.83228,
+  "lng": -80.18714,
+  "city": "Miami",
+  "address": "430 Northeast 61st Street, Miami, FL, 33137",
+  "q": "Lemon City Branch library, Miami-Dade County, Florida",
+  "osm": "Lemon City Branch Library, 430, Northeast 61st Street, Little Haiti, Bayshore, Miami, Miami-Dade County, Florida, 33137, United States"
+ },
+ "Miami-Dade|Main Library": {
+  "lat": 25.77455,
+  "lng": -80.19734,
+  "city": "Miami",
+  "address": "101 West Flagler Street, Miami, FL, 33130",
+  "q": "Main Library library, Miami-Dade County, Florida",
+  "osm": "Miami-Dade County Public Library - Main Branch, 101, West Flagler Street, Downtown Miami, Miami, Miami-Dade County, Florida, 33130, United States"
+ },
+ "Miami-Dade|Miami Beach Regional": {
+  "lat": 25.79806,
+  "lng": -80.12895,
+  "city": "Miami Beach",
+  "address": "227 22nd Street, Miami Beach, FL, 33139",
+  "q": "Miami Beach Regional library, Miami-Dade County, Florida",
+  "osm": "Miami-Dade Public Library, Miami Beach Regional, 227, 22nd Street, Miami Beach, Miami-Dade County, Florida, 33139, United States"
+ },
+ "Miami-Dade|Miami Springs Branch": {
+  "lat": 25.82149,
+  "lng": -80.28768,
+  "city": "Miami Springs",
+  "address": "401 Westward Drive, Miami Springs, FL, 33166",
+  "q": "Miami Springs Branch library, Miami-Dade County, Florida",
+  "osm": "Miami Springs Branch Library, 401, Westward Drive, Miami Springs, Miami-Dade County, Florida, 33166, United States"
+ },
+ "Miami-Dade|Naranja Branch": {
+  "lat": 25.50626,
+  "lng": -80.43076,
+  "city": "Leisure City",
+  "address": "14850 Southwest 280th Street, Leisure City, FL, 33032",
+  "q": "Naranja Branch library, Miami-Dade County, Florida",
+  "osm": "Naranja Branch Library, 14850, Southwest 280th Street, Leisure City, Miami-Dade County, Florida, 33032, United States"
+ },
+ "Miami-Dade|North Central Branch": {
+  "lat": 25.8618,
+  "lng": -80.24255,
+  "city": "Miami",
+  "address": "9590 Northwest 27th Avenue, Miami, FL, 33147",
+  "q": "North Central Branch library, Miami-Dade County, Florida",
+  "osm": "North Central Branch Library, 9590, Northwest 27th Avenue, West Little River, Miami, Miami-Dade County, Florida, 33147, United States"
+ },
+ "Miami-Dade|North Dade Regional": {
+  "lat": 25.94177,
+  "lng": -80.24273,
+  "city": "Miami Gardens",
+  "address": "2455 Northwest 183rd Street, Miami Gardens, FL, 33056",
+  "q": "North Dade Regional library, Miami-Dade County, Florida",
+  "osm": "North Dade Regional Library, 2455, Northwest 183rd Street, Carol City, Miami Gardens, Miami-Dade County, Florida, 33056, United States"
+ },
+ "Miami-Dade|Northeast Dade-Aventura Branch": {
+  "lat": 25.96035,
+  "lng": -80.14261,
+  "city": "Aventura",
+  "address": "2930 Northeast 199th Street, Aventura, FL, 33180",
+  "q": "Northeast Dade-Aventura Branch library, Miami-Dade County, Florida",
+  "osm": "Northeast Dade - Aventura Branch Library, 2930, Northeast 199th Street, Aventura, Miami-Dade County, Florida, 33180, United States"
+ },
+ "Miami-Dade|Opa-locka Branch": {
+  "lat": 25.90191,
+  "lng": -80.25166,
+  "city": "Opa-locka",
+  "address": "780 Fisherman Street, Opa-locka, FL, 33054",
+  "q": "Opa-locka Branch library, Miami-Dade County, Florida",
+  "osm": "Opa-Locka Branch Public Library, 780, Fisherman Street, Opa-locka, Miami-Dade County, Florida, 33054, United States"
+ },
+ "Miami-Dade|Palm Springs North Branch": {
+  "lat": 25.93352,
+  "lng": -80.3266,
+  "city": "Miami",
+  "address": "17601 Northwest 78th Avenue, Miami, FL, 33015",
+  "q": "Palm Springs North Branch library, Miami-Dade County, Florida",
+  "osm": "Palm Springs North Branch Library, 17601, Northwest 78th Avenue, Palm Springs North, Miami, Miami-Dade County, Florida, 33015, United States"
+ },
+ "Miami-Dade|Palmetto Bay Branch": {
+  "lat": 25.60691,
+  "lng": -80.31129,
+  "city": "Palmetto Bay",
+  "address": "17641 Old Cutler Road, Palmetto Bay, FL, 33157",
+  "q": "Palmetto Bay Branch library, Miami-Dade County, Florida",
+  "osm": "Palmetto Bay Branch Library, 17641, Old Cutler Road, Cutler, Palmetto Bay, Miami-Dade County, Florida, 33157, United States"
+ },
+ "Miami-Dade|Shenandoah Branch": {
+  "lat": 25.75472,
+  "lng": -80.22859,
+  "city": "Miami",
+  "address": "2111 Southwest 19th Street, Miami, FL, 33145",
+  "q": "Shenandoah Branch library, Miami-Dade County, Florida",
+  "osm": "Shenandoah Branch Library, 2111, Southwest 19th Street, Shenandoah, Miami, Miami-Dade County, Florida, 33145, United States"
+ },
+ "Miami-Dade|South Miami Branch": {
+  "lat": 25.7705,
+  "lng": -80.13783,
+  "city": "Miami Beach",
+  "address": "131 Alton Road, Miami Beach, FL, 33139",
+  "q": "South Miami Branch library, Miami-Dade County, Florida",
+  "osm": "Miami-Dade Public Library, South Shore Branch, 131, Alton Road, South Beach, Miami Beach, Miami-Dade County, Florida, 33139, United States"
+ },
+ "Miami-Dade|Sunny Isles Beach Branch": {
+  "lat": 25.94261,
+  "lng": -80.12175,
+  "city": "Sunny Isles Beach",
+  "address": "18070 Collins Avenue, Sunny Isles Beach, FL, 33160",
+  "q": "Sunny Isles Beach Branch library, Miami-Dade County, Florida",
+  "osm": "Sunny Isles Beach Branch Library, 18070, Collins Avenue, Sunny Isles Beach, Miami-Dade County, Florida, 33160, United States"
+ },
+ "Miami-Dade|Sunset Branch": {
+  "lat": 25.70275,
+  "lng": -80.36945,
+  "city": "Miami",
+  "address": "10855 Southwest 72nd Street, Miami, FL, 33173",
+  "q": "Sunset Branch library, Miami-Dade County, Florida",
+  "osm": "Sunset Branch Library, 10855, Southwest 72nd Street, Miami, Miami-Dade County, Florida, 33173, United States"
+ },
+ "Miami-Dade|Tamiami Branch": {
+  "lat": 25.76058,
+  "lng": -80.40136,
+  "city": "Miami",
+  "address": "12700 Southwest 8th Street, Miami, FL, 33184",
+  "q": "Tamiami Branch library, Miami-Dade County, Florida",
+  "osm": "Tamiami Branch Library, 12700, Southwest 8th Street, Tamiami, Miami, Miami-Dade County, Florida, 33184, United States"
+ },
+ "Miami-Dade|Virrick Park Branch": {
+  "lat": 25.73074,
+  "lng": -80.25047,
+  "city": "Miami",
+  "address": "3255 Plaza Street, Miami, FL, 33133",
+  "q": "Virrick Park Branch library, Miami-Dade County, Florida",
+  "osm": "Virrick Park Branch Library, 3255, Plaza Street, South Bay Estates, Miami, Miami-Dade County, Florida, 33133, United States"
+ },
+ "Miami-Dade|West Flagler Branch": {
+  "lat": 25.77098,
+  "lng": -80.2774,
+  "city": "Coral Gables",
+  "address": "5050 West Flagler Street, Coral Gables, FL, 33134",
+  "q": "West Flagler Branch library, Miami-Dade County, Florida",
+  "osm": "West Flagler Branch Library, 5050, West Flagler Street, Coral Gables, Miami-Dade County, Florida, 33134, United States"
+ },
+ "Miami-Dade|West Kendall Regional": {
+  "lat": 25.67289,
+  "lng": -80.44081,
+  "city": "Miami",
+  "address": "10201 Hammocks Boulevard, Miami, FL, 33196",
+  "q": "West Kendall Regional library, Miami-Dade County, Florida",
+  "osm": "West Kendall Regional Library, 10201, Hammocks Boulevard, The Hammocks, Miami, Miami-Dade County, Florida, 33196, United States"
+ },
+ "Miami-Dade|Westchester Regional": {
+  "lat": 25.74849,
+  "lng": -80.34839,
+  "city": "Miami",
+  "address": "9445 Southwest 24th Street, Miami, FL, 33165",
+  "q": "Westchester Regional library, Miami-Dade County, Florida",
+  "osm": "Westchester Regional Library, 9445, Southwest 24th Street, Town Park Estates, Miami, Miami-Dade County, Florida, 33165, United States"
+ },
+ "Palm Beach|Acreage Branch": {
+  "lat": 26.78088,
+  "lng": -80.29164,
+  "city": "The Acreage",
+  "address": "15801 Orange Boulevard, The Acreage, FL, 33470",
+  "q": "Acreage Branch library, Palm Beach County, Florida",
+  "osm": "Acreage Branch Library, 15801, Orange Boulevard, The Acreage, Palm Beach County, Florida, 33470, United States"
+ },
+ "Palm Beach|Belle Glade Branch": {
+  "lat": 26.69232,
+  "lng": -80.67122,
+  "city": "Belle Glade",
+  "address": "725 Northwest 4th Street, Belle Glade, FL, 33430",
+  "q": "Belle Glade Branch library, Palm Beach County, Florida",
+  "osm": "Belle Glade Branch, 725, Northwest 4th Street, Belle Glade, Palm Beach County, Florida, 33430, United States"
+ },
+ "Palm Beach|Canyon Branch": {
+  "lat": 26.52478,
+  "lng": -80.18706,
+  "city": "Boynton Beach",
+  "address": "8915 Senator Joe Abruzzo Avenue, Boynton Beach, FL, 33472",
+  "q": "Canyon Branch library, Palm Beach County, Florida",
+  "osm": "Canyon Branch, 8915, Senator Joe Abruzzo Avenue, Boynton Beach, Palm Beach County, Florida, 33472, United States"
+ },
+ "Palm Beach|Clarence E. Anthony Branch": {
+  "lat": 26.66113,
+  "lng": -80.71354,
+  "city": "South Bay",
+  "address": "375 Southwest 2nd Street, South Bay, FL, 33493",
+  "q": "Clarence E. Anthony Branch library, Palm Beach County, Florida",
+  "osm": "Clarence E Anthony Branch Library, 375, Southwest 2nd Street, South Bay, Palm Beach County, Florida, 33493, United States"
+ },
+ "Palm Beach|Gardens Branch": {
+  "lat": 26.84208,
+  "lng": -80.0834,
+  "city": "North Palm Beach",
+  "address": "11303 Campus Drive, North Palm Beach, FL, 33410",
+  "q": "Gardens Branch library, Palm Beach County, Florida",
+  "osm": "Gardens Branch, 11303, Campus Drive, North Palm Beach, Palm Beach Gardens, Palm Beach County, Florida, 33410, United States"
+ },
+ "Palm Beach|Greenacres Branch": {
+  "lat": 26.62264,
+  "lng": -80.14595,
+  "city": "Greenacres",
+  "address": "3750 Jog Road, Greenacres, FL, 33467",
+  "q": "Greenacres Branch library, Palm Beach County, Florida",
+  "osm": "Greenacres Branch Library, 3750, Jog Road, Park Pointe, Greenacres, Palm Beach County, Florida, 33467, United States"
+ },
+ "Palm Beach|Jupiter Branch": {
+  "lat": 26.92713,
+  "lng": -80.10121,
+  "city": "Jupiter",
+  "address": "705 Military Trail, Jupiter, FL, 33458",
+  "q": "Jupiter Branch library, Palm Beach County, Florida",
+  "osm": "PBC Library, Jupiter Branch, 705, Military Trail, Jupiter, Palm Beach County, Florida, 33458, United States"
+ },
+ "Palm Beach|Lantana Road Branch": {
+  "lat": 26.588,
+  "lng": -80.10582,
+  "city": "Atlantis",
+  "address": "4020 Lantana Road, Atlantis, FL, 33462",
+  "q": "Lantana Road Branch library, Palm Beach County, Florida",
+  "osm": "Lantana Road Branch, 4020, Lantana Road, Atlantis, Palm Beach County, Florida, 33462, United States"
+ },
+ "Palm Beach|Main Library": {
+  "lat": 26.66265,
+  "lng": -80.09875,
+  "city": "West Palm Beach",
+  "address": "3650 Summit Boulevard, West Palm Beach, FL, 33406",
+  "q": "Main Library library, Palm Beach County, Florida",
+  "osm": "Palm Beach County Main Library, 3650, Summit Boulevard, West Palm Beach, Palm Beach County, Florida, 33406, United States"
+ },
+ "Palm Beach|Okeechobee Boulevard Branch": {
+  "lat": 26.7085,
+  "lng": -80.1306,
+  "city": "West Palm Beach",
+  "address": "5689 Okeechobee Boulevard, West Palm Beach, FL, 33417",
+  "q": "Okeechobee Boulevard Branch library, Palm Beach County, Florida",
+  "osm": "Okeechobee Boulevard Branch, 5689, Okeechobee Boulevard, Plantation Mobile Home Park, West Palm Beach, Palm Beach County, Florida, 33417, United States"
+ },
+ "Palm Beach|Royal Palm Beach Branch": {
+  "lat": 26.7047,
+  "lng": -80.22792,
+  "city": "Royal Palm Beach",
+  "address": "1050 Royal Palm Beach Boulevard, Royal Palm Beach, FL, 33411",
+  "q": "Royal Palm Beach Branch, Palm Beach County, Florida",
+  "osm": "Royal Palm Beach Branch, 1050, Royal Palm Beach Boulevard, Royal Palm Beach, Palm Beach County, Florida, 33411, United States"
+ },
+ "Palm Beach|Tequesta Branch": {
+  "lat": 26.96225,
+  "lng": -80.08911,
+  "city": "Tequesta",
+  "address": "461 Village Boulevard, Tequesta, FL, 33469",
+  "q": "Tequesta Branch library, Palm Beach County, Florida",
+  "osm": "Tequesta Branch Library, 461, Village Boulevard, Tequesta, Palm Beach County, Florida, 33469, United States"
+ },
+ "Palm Beach|Wellington Branch": {
+  "lat": 26.6523,
+  "lng": -80.22575,
+  "city": "Wellington",
+  "address": "1951 Royal Fern Boulevard, Wellington, FL, 33447",
+  "q": "Wellington Branch library, Palm Beach County, Florida",
+  "osm": "PBCLS Wellington Branch Library, 1951, Royal Fern Boulevard, Wellington, Palm Beach County, Florida, 33447, United States"
+ },
+ "Palm Beach|West Boca Branch": {
+  "lat": 26.39861,
+  "lng": -80.20516,
+  "city": "Boca Raton",
+  "address": "18685 State Road 7, Boca Raton, FL, 33498",
+  "q": "West Boca Branch library, Palm Beach County, Florida",
+  "osm": "West Boca Branch Library, 18685, State Road 7, Boca Raton, Palm Beach County, Florida, 33498, United States"
+ },
+ "Palm Beach|West Boynton Branch": {
+  "lat": 26.53653,
+  "lng": -80.14833,
+  "city": "Boynton Beach",
+  "address": "9451 Jog Road, Boynton Beach, FL, 33437",
+  "q": "West Boynton Branch library, Palm Beach County, Florida",
+  "osm": "West Boynton Branch Library, 9451, Jog Road, Aberdeen, Boynton Beach, Palm Beach County, Florida, 33437, United States"
+ },
+ "Broward|Hollywood Beach Bernice P. Oster Branch": {
+  "lat": 26.0112,
+  "lng": -80.1495,
+  "city": "Hollywood",
+  "address": "",
+  "approx": true
+ },
+ "Broward|Lauderdale Lakes Branch Library/Educational and Cultural Center": {
+  "lat": 26.1665,
+  "lng": -80.2084,
+  "city": "Lauderdale Lakes",
+  "address": "",
+  "approx": true
+ },
+ "Broward|Miramar Branch Library & Education Center": {
+  "lat": 25.986,
+  "lng": -80.3035,
+  "city": "Miramar",
+  "address": "",
+  "approx": true
+ },
+ "Broward|Pembroke Pines/Walter C. Young Resource Center": {
+  "lat": 26.0078,
+  "lng": -80.2963,
+  "city": "Pembroke Pines",
+  "address": "",
+  "approx": true
+ },
+ "Broward|Pompano Beach Library and Cultural Center": {
+  "lat": 26.2379,
+  "lng": -80.1248,
+  "city": "Pompano Beach",
+  "address": "",
+  "approx": true
+ },
+ "Broward|Sunrise Dan Pearl Branch": {
+  "lat": 26.167,
+  "lng": -80.2564,
+  "city": "Sunrise",
+  "address": "",
+  "approx": true
+ },
+ "Miami-Dade|Kendall Branch": {
+  "lat": 25.6793,
+  "lng": -80.3173,
+  "city": "Kendall",
+  "address": "",
+  "approx": true
+ },
+ "Miami-Dade|Pinecrest Branch": {
+  "lat": 25.667,
+  "lng": -80.3081,
+  "city": "Pinecrest",
+  "address": "",
+  "approx": true
+ },
+ "Broward|Broward County Main Library": {
+  "lat": 26.1206,
+  "lng": -80.1438,
+  "city": "Fort Lauderdale",
+  "address": "100 S Andrews Ave, Fort Lauderdale, FL 33301",
+  "approx": true
+ },
+ "Broward|Nova Southeastern University Alvin Sherman Library, Research and Information Technology Center": {
+  "lat": 26.0806,
+  "lng": -80.2398,
+  "city": "Davie",
+  "address": "3100 Ray Ferrero Jr Blvd, Davie, FL 33314",
+  "approx": true
+ },
+ "Broward|South Regional/Broward College Library": {
+  "lat": 26.0068,
+  "lng": -80.2361,
+  "city": "Pembroke Pines",
+  "address": "7300 Pines Blvd, Pembroke Pines, FL 33024",
+  "approx": true
+ },
+ "Broward|Marta-Beth Friedman Stirling Road Branch": {
+  "lat": 26.044,
+  "lng": -80.1772,
+  "city": "Hollywood",
+  "address": "",
+  "approx": true
+ },
+ "Broward|Jan Moran Collier City Learning Library": {
+  "lat": 26.241,
+  "lng": -80.159,
+  "city": "Pompano Beach",
+  "address": "",
+  "approx": true
+ },
+ "Miami-Dade|Culmer/Overtown Branch": {
+  "lat": 25.786,
+  "lng": -80.2,
+  "city": "Miami",
+  "address": "",
+  "approx": true
+ },
+ "Miami-Dade|Little River Branch": {
+  "lat": 25.8475,
+  "lng": -80.193,
+  "city": "Miami",
+  "address": "",
+  "approx": true
+ },
+ "Miami-Dade|Model City Branch": {
+  "lat": 25.824,
+  "lng": -80.235,
+  "city": "Miami",
+  "address": "",
+  "approx": true
+ },
+ "Miami-Dade|Coral Reef Branch": {
+  "lat": 25.629,
+  "lng": -80.343,
+  "city": "Palmetto Bay",
+  "address": "",
+  "approx": true
+ },
+ "Miami-Dade|Kendale Lakes Branch": {
+  "lat": 25.685,
+  "lng": -80.438,
+  "city": "Kendall",
+  "address": "",
+  "approx": true
+ },
+ "Miami-Dade|Concord Branch": {
+  "lat": 25.733,
+  "lng": -80.377,
+  "city": "Miami",
+  "address": "",
+  "approx": true
+ },
+ "Palm Beach|Glades Road Branch": {
+  "lat": 26.366,
+  "lng": -80.201,
+  "city": "Boca Raton",
+  "address": "",
+  "approx": true
+ },
+ "Palm Beach|Hagen Ranch Road Branch": {
+  "lat": 26.475,
+  "lng": -80.169,
+  "city": "Delray Beach",
+  "address": "",
+  "approx": true
+ },
+ "Palm Beach|Loula V. York Branch - Pahokee": {
+  "lat": 26.823,
+  "lng": -80.663,
+  "city": "Pahokee",
+  "address": "",
+  "approx": true
+ },
+ "Miami-Dade|Westchester Library Health and Wellness Information Center": {
+  "lat": 25.74849,
+  "lng": -80.34839,
+  "city": "Miami",
+  "address": "9445 Southwest 24th Street, Miami, FL, 33165",
+  "q": "Westchester Regional library, Miami-Dade County, Florida",
+  "osm": "Westchester Regional Library, 9445, Southwest 24th Street, Town Park Estates, Miami, Miami-Dade County, Florida, 33165, United States"
+ }
+}
