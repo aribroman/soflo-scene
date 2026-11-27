@@ -1,0 +1,37 @@
+{
+ "name": "SoFlo Scene",
+ "short_name": "SoFlo Scene",
+ "description": "Free & paid things to do in South Florida: Miami-Dade, Broward and Palm Beach.",
+ "id": "./",
+ "start_url": "./?source=app",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#f6f8f5",
+ "theme_color": "#0b7c86",
+ "categories": [
+  "entertainment",
+  "lifestyle",
+  "travel"
+ ],
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
