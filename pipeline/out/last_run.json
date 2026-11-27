@@ -1,5 +1,5 @@
 {
- "started": "2026-11-26T19:27:59.749831-05:00",
+ "started": "2026-11-27T05:54:06.545710-05:00",
  "sources": {
   "eventbrite": {
    "ok": false,
@@ -9,15 +9,15 @@
   "hardrock": {
    "ok": true,
    "raw": 27,
-   "secs": 4.5,
+   "secs": 6.5,
    "detail": null
   },
   "ical": {
    "ok": true,
-   "raw": 312,
-   "secs": 1.0,
+   "raw": 311,
+   "secs": 0.8,
    "detail": {
-    "www.hollywoodfl.org#27": 119,
+    "www.hollywoodfl.org#27": 118,
     "www.ppines.com#27": 4,
     "www.deerfield-beach.com#24": 9,
     "www.hallandalebeachfl.gov#41": 10,
@@ -35,23 +35,23 @@
   },
   "kaseya": {
    "ok": true,
-   "raw": 35,
-   "secs": 10.2,
+   "raw": 36,
+   "secs": 9.3,
    "detail": null
   },
   "kravis": {
    "ok": true,
-   "raw": 97,
-   "secs": 2.6,
+   "raw": 99,
+   "secs": 10.8,
    "detail": null
   },
   "tribe": {
    "ok": true,
-   "raw": 450,
-   "secs": 36.9,
+   "raw": 452,
+   "secs": 51.1,
    "detail": {
     "miamibeachfl": [
-     384,
+     380,
      97
     ],
     "bandshell": [
@@ -59,27 +59,27 @@
      23
     ],
     "downtownwpb": [
-     261,
-     197
+     262,
+     198
     ],
     "wynwood": [
-     252,
-     61
+     255,
+     62
     ],
     "frost": [
      20,
      12
     ],
     "artsgarage": [
-     63,
+     62,
      60
     ]
    }
   },
   "venues": {
    "ok": true,
-   "raw": 42,
-   "secs": 6.5,
+   "raw": 43,
+   "secs": 5.3,
    "detail": null
   }
  },
@@ -87,26 +87,26 @@
   "eventbrite: RuntimeError: eventbrite: every discovery page failed"
  ],
  "published": true,
- "new_today": 289,
+ "new_today": 4,
  "feed_after_dedupe": {
   "tribe": 138,
   "ical": 100,
-  "venues": 40,
+  "venues": 41,
   "hardrock": 23,
   "eventbrite": 315,
-  "kravis": 90,
-  "kaseya": 33
+  "kravis": 92,
+  "kaseya": 34
  },
  "covered_by_picks": 47,
  "library_non_events_dropped": 0,
- "library": 382,
- "curated": 95,
- "feed": 739,
+ "library": 385,
+ "curated": 91,
+ "feed": 743,
  "total": 834,
  "free": 195,
  "paid": 517,
  "other": 122,
- "updated": "2026-11-27T00:28:42Z",
- "bytes": 857457,
- "finished": "2026-11-26T19:28:42.486897-05:00"
+ "updated": "2026-11-27T10:55:02Z",
+ "bytes": 859483,
+ "finished": "2026-11-27T05:55:02.093435-05:00"
 }
