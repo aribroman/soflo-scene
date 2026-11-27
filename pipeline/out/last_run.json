@@ -1,16 +1,15 @@
 {
- "started": "2026-11-26T19:23:22.905045-05:00",
+ "started": "2026-11-26T19:27:59.749831-05:00",
  "sources": {
   "eventbrite": {
-   "ok": true,
-   "raw": 337,
-   "secs": 28.7,
-   "detail": null
+   "ok": false,
+   "error": "RuntimeError: eventbrite: every discovery page failed",
+   "used_last_good": 337
   },
   "hardrock": {
    "ok": true,
    "raw": 27,
-   "secs": 5.5,
+   "secs": 4.5,
    "detail": null
   },
   "ical": {
@@ -37,19 +36,19 @@
   "kaseya": {
    "ok": true,
    "raw": 35,
-   "secs": 10.1,
+   "secs": 10.2,
    "detail": null
   },
   "kravis": {
    "ok": true,
    "raw": 97,
-   "secs": 4.0,
+   "secs": 2.6,
    "detail": null
   },
   "tribe": {
    "ok": true,
    "raw": 450,
-   "secs": 60.4,
+   "secs": 36.9,
    "detail": {
     "miamibeachfl": [
      384,
@@ -80,11 +79,13 @@
   "venues": {
    "ok": true,
    "raw": 42,
-   "secs": 7.0,
+   "secs": 6.5,
    "detail": null
   }
  },
- "errors": [],
+ "errors": [
+  "eventbrite: RuntimeError: eventbrite: every discovery page failed"
+ ],
  "published": true,
  "new_today": 289,
  "feed_after_dedupe": {
@@ -105,7 +106,7 @@
  "free": 195,
  "paid": 517,
  "other": 122,
- "updated": "2026-11-27T00:24:28Z",
- "bytes": 857458,
- "finished": "2026-11-26T19:24:28.183672-05:00"
+ "updated": "2026-11-27T00:28:42Z",
+ "bytes": 857457,
+ "finished": "2026-11-26T19:28:42.486897-05:00"
 }
