@@ -1,24 +1,23 @@
 {
- "started": "2026-11-27T17:55:22.728125-05:00",
+ "started": "2026-11-28T05:50:28.400149-05:00",
  "sources": {
   "eventbrite": {
-   "ok": true,
-   "raw": 329,
-   "secs": 21.5,
-   "detail": null
+   "ok": false,
+   "error": "RuntimeError: eventbrite: every discovery page failed",
+   "used_last_good": 329
   },
   "hardrock": {
    "ok": true,
    "raw": 27,
-   "secs": 4.9,
+   "secs": 4.7,
    "detail": null
   },
   "ical": {
    "ok": true,
-   "raw": 310,
-   "secs": 0.7,
+   "raw": 309,
+   "secs": 1.0,
    "detail": {
-    "www.hollywoodfl.org#27": 117,
+    "www.hollywoodfl.org#27": 116,
     "www.ppines.com#27": 4,
     "www.deerfield-beach.com#24": 9,
     "www.hallandalebeachfl.gov#41": 10,
@@ -37,75 +36,77 @@
   "kaseya": {
    "ok": true,
    "raw": 36,
-   "secs": 11.3,
+   "secs": 9.8,
    "detail": null
   },
   "kravis": {
    "ok": true,
    "raw": 99,
-   "secs": 19.9,
+   "secs": 24.8,
    "detail": null
   },
   "tribe": {
    "ok": true,
-   "raw": 451,
-   "secs": 47.4,
+   "raw": 453,
+   "secs": 48.8,
    "detail": {
     "miamibeachfl": [
-     380,
-     97
+     379,
+     101
     ],
     "bandshell": [
-     23,
-     23
+     22,
+     22
     ],
     "downtownwpb": [
-     262,
+     261,
      198
     ],
     "wynwood": [
-     255,
-     62
+     259,
+     63
     ],
     "frost": [
-     20,
-     12
+     19,
+     11
     ],
     "artsgarage": [
-     61,
-     59
+     60,
+     58
     ]
    }
   },
   "venues": {
    "ok": true,
    "raw": 43,
-   "secs": 5.3,
+   "secs": 6.0,
    "detail": null
   }
  },
- "errors": [],
+ "errors": [
+  "eventbrite: RuntimeError: eventbrite: every discovery page failed"
+ ],
  "published": true,
- "new_today": 37,
+ "new_today": 1,
  "feed_after_dedupe": {
-  "tribe": 137,
+  "tribe": 136,
   "ical": 100,
   "venues": 41,
   "hardrock": 23,
-  "eventbrite": 308,
+  "eventbrite": 289,
   "kravis": 92,
   "kaseya": 34
  },
- "covered_by_picks": 45,
+ "covered_by_picks": 44,
  "library_non_events_dropped": 0,
- "library": 385,
- "curated": 91,
- "feed": 735,
- "total": 826,
- "free": 190,
- "paid": 514,
+ "library": 387,
+ "curated": 89,
+ "feed": 715,
+ "total": 804,
+ "free": 182,
+ "paid": 500,
  "other": 122,
- "updated": "2026-11-27T22:56:14Z",
- "bytes": 853394,
- "finished": "2026-11-27T17:56:14.363150-05:00"
+ "updated": "2026-11-28T10:51:22Z",
+ "bytes": 838653,
+ "finished": "2026-11-28T05:51:22.690841-05:00"
 }
